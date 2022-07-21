@@ -10,3 +10,8 @@
 - 영상 예측 CNN :
 [template_image_data_vanilla_cnn_regression.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb)
 
+- 분류 - vanilla CNN :
+[template_image_data_vanilla_cnn_classification.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/template_image_data_vanilla_cnn_classification.ipynb)
+
+- 데이터 증강 :
+[data_augmentation.ipynb](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/data_augmentation.ipynb#scrollTo=JU5aq2wUofnH)
