@@ -8,5 +8,5 @@ https://colab.research.google.com/drive/1IM40aOBWN-1pg1hycgWse2VMGSuHNWro
 https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/cnn_cifar10.ipynb
 
 영상 예측 CNN :
-template_image_data_vannilla_cnn_regression.ipynb 
+https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb
 
