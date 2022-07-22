@@ -15,3 +15,6 @@
 
 - 데이터 증강 :
 [data_augmentation.ipynb](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/data_augmentation.ipynb#scrollTo=JU5aq2wUofnH)
+
+
+## 5일차 (22.07.22)
