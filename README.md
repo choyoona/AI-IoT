@@ -24,4 +24,4 @@
     - 커스텀 데이터 실습
       - 자료 : [flowers_prepared.ziq](https://drive.google.com/file/d/1aL0PRO6kt3zBx4UPJjjEe-8o52dquiwm/view?usp=sharing)
       - 연습 : [flower_classification_practice.ipynb](https://colab.research.google.com/drive/1SU8V17bXQQOIPGRlCdcdvkkdlKO6buj9#scrollTo=kXC97HAMx9kK)
-  - 영상 예측 : [template_image_data_transfer_learning_classification.ipynb](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/template_image_data_transfer_learning_classification.ipynb#scrollTo=B5LVL0anlYhG)
+  - 영상 예측 : [template_image_data_transfer_learning_regression.ipynb](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/template_image_data_transfer_learning_regression.ipynb)
