@@ -20,5 +20,5 @@
 ## 5일차 (22.07.22)
 - 전이학습
   - 영상분류 : [VGG16_classification_and_cumtom_data_training.ipynb](https://colab.research.google.com/drive/1XyKvSqNIqZmKOWD3qfzq648QMim2SXlL)
-             [classification_and _custom_data_traing_practicecode.ipynb](https://colab.research.google.com/drive/1nBivNER5YZATjDtJNRJeMTEZCGS5UXWp)
+  - 연습    : [classification_and _custom_data_traing_practicecode.ipynb](https://colab.research.google.com/drive/1nBivNER5YZATjDtJNRJeMTEZCGS5UXWp)
 - 커스텀 데이터 실습
