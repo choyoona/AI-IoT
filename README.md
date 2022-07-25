@@ -30,3 +30,6 @@
 
 ## 6일차 (22.07.25)
 - Keras Functional API : [functional_api.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/functional_api.ipynb)
+- AutoEncoder
+   - AutoEncoder 실습 : []()
+   - Normalization의 유무 차이 : []()
