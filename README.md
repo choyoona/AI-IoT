@@ -25,3 +25,8 @@
       - 자료 : [flowers_prepared.ziq](https://drive.google.com/file/d/1aL0PRO6kt3zBx4UPJjjEe-8o52dquiwm/view?usp=sharing)
       - 연습 : [flower_classification_practice.ipynb](https://colab.research.google.com/drive/1SU8V17bXQQOIPGRlCdcdvkkdlKO6buj9#scrollTo=kXC97HAMx9kK)
   - 영상 예측 : [template_image_data_transfer_learning_regression.ipynb](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/template_image_data_transfer_learning_regression.ipynb)
+  
+  
+
+## 6일차 (22.07.25)
+- Keras Functional API : [functional_api.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/functional_api.ipynb)
