@@ -33,3 +33,9 @@
 - AutoEncoder
    - AutoEncoder 실습 : []()
    - Normalization의 유무 차이 : []()
+   
+   
+## 7일차 (22.07.26)   
+- 물체탐지 
+   - darknet으로 물체 탐지 : [object_detection_yolo_darknet.ipynb](https://github.com/choyoona/AI-IoT/blob/main/material/deep_learning/object_detection_yolo_darknet.ipynb)
+   - keras로 물체 탐지 : [keras_yolov3.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/keras_yolov3.ipynb)
