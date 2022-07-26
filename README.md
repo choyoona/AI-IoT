@@ -39,3 +39,5 @@
 - 물체탐지 
    - darknet으로 물체 탐지 : [object_detection_yolo_darknet.ipynb](https://github.com/choyoona/AI-IoT/blob/main/material/deep_learning/object_detection_yolo_darknet.ipynb)
    - keras로 물체 탐지 : [keras_yolov3.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/keras_yolov3.ipynb)
+   - 커스텀 데이터
+       - raccoon 데이터 학습 : [deep_learning/train_yolov3_raccoon_train.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/train_yolov3_raccoon_train.ipynb)
