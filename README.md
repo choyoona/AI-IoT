@@ -41,3 +41,7 @@
    - keras로 물체 탐지 : [keras_yolov3.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/keras_yolov3.ipynb)
    - 커스텀 데이터
        - raccoon 데이터 학습 : [deep_learning/train_yolov3_raccoon_train.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+       
+
+## 8일차 (22.07.27)
+웹 카메라를 사용한 영상 분류 : [webcam_classifier.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/webcam_classifier.ipynb)
