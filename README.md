@@ -50,3 +50,8 @@
 ## 9일차 (22.07.28)
 - 웹 카메라를 사용한 물체 탐지 
      - 데이터 학습 : [deep_learning/train_yolov3_cup_train.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/train_yolov3_cup_train.ipynb)
+     - 캡쳐 : [webcam_object_detector.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/webcam_object_detector.ipynb)
+
+
+## 10일차 (22.07.29)
+- 웹 카메라를 사용한 포즈 추출 : 
