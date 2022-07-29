@@ -54,4 +54,4 @@
 
 
 ## 10일차 (22.07.29)
-- 웹 카메라를 사용한 포즈 추출 : 
+- 웹 카메라를 사용한 포즈 추출 : [webcam_pose_extraction.ipynb](https://colab.research.google.com/github/choyoona/AI-IoT/blob/main/material/deep_learning/webcam_pose_extraction.ipynb)
